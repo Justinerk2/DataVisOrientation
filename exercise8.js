@@ -10,3 +10,9 @@ http.get(url, function(response) {
         console.log(data)
     }))
 })
+
+//var http = require('http;);
+//var url= process.argb [2];
+//var dataStore = [];
+//http.get(url, function(res) { res.setEncoding('utf8')
+//)
